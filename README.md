@@ -1,4 +1,4 @@
-## Dodanie dźwięku przy wystrzale
+a## Dodanie dźwięku przy wystrzale
 ## Zmiana toru lotu pocisków (pozioma)
 ## Zmiana statku (jego orientacji oraz wyglądu)
-![Zdjęcie statku](https://github.com/TofTo23/lab_obiektowe/zdj1.png)
+![Zdjęcie statku](https://github.com/TofTo23/lab_obiektowe/blob/main/zdj1.png)
